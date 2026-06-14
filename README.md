@@ -162,5 +162,3 @@ Carlos_Bennett/
 | v2 (failure-case) | `prompt.txt` | Enterprise failure-case variant with 46/50 trap turns across 10 families, 16 compounds (34.8%), 4 HITL gates |
 
 ---
-
-*Built for the Talos LHC benchmark. Evaluated against `qc_lhc_prompt.md`, `LHC_Golden_Trajectory_QC.md`, and `Talos_General_Seed_Prompt_QC_Checklist.pdf`.*
