@@ -153,12 +153,3 @@ Carlos_Bennett/
 | Persona alignment violations | 0 |
 
 ---
-
-## Version History
-
-| Version | File | Description |
-|---------|------|-------------|
-| v1 (pass) | `file-prompt-5.txt` | Clean pass-version with natural 50-turn LHC trajectory |
-| v2 (failure-case) | `prompt.txt` | Enterprise failure-case variant with 46/50 trap turns across 10 families, 16 compounds (34.8%), 4 HITL gates |
-
----
